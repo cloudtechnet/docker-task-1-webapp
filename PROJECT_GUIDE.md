@@ -1040,10 +1040,9 @@ healthy
 
 | | |
 |---|---|
-| **Name** | Your Name |
-| **GitHub** | [@your-username](https://github.com/your-username) |
-| **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| **Portfolio** | [yourwebsite.com](https://yourwebsite.com) |
+| **Name** | Rajesh Naidu|
+| **GitHub** | [cloudtechnet](https://github.com/cloudtechnet) |
+| **Portfolio** | [cloudtechnet.in](https://cloudtechnet.in) |
 
 </div>
 
